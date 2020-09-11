@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40ibsardar%2Ftiny.svg)](https://badge.fury.io/js/%40ibsardar%2Ftiny)
+![npm (scoped)](https://img.shields.io/npm/v/@ibsardar/tiny)
 ![npm](https://img.shields.io/npm/dm/@ibsardar/tiny)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@ibsardar/tiny)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ibsardar/tiny)
