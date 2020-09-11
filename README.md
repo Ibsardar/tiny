@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/%40ibsardar%2Ftiny.svg)](https://badge.fury.io/js/%40ibsardar%2Ftiny)
-[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@ibsardar/tiny)](https://github.com/Ibsardar/tiny)
+[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@ibsardar/tiny)](https://www.npmjs.com/package/@ibsardar/tiny)
 
 # @ibsardar/tiny
 My tiniest npm module
