@@ -5,6 +5,7 @@
     "license": "MIT",
     "repository": "ibsardar/tiny",
     "main": "index.js",
+    "type": "module",
     "keywords": [
         "tiny",
         "npm",
