@@ -7,5 +7,3 @@ const tiny = function tiny(string) {
 module.exports = {
   tiny
 };
-
-export { tiny as remove_spaces_from_string }
